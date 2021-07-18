@@ -1,3 +1,5 @@
+package com.algorithm.searching;
+
 import java.util.ArrayList;
 import java.util.List;
 

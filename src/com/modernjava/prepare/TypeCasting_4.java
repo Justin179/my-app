@@ -26,5 +26,15 @@ public class TypeCasting_4 {
 
         System.out.println(myDouble2);   // Outputs 9.78
         System.out.println(myInt2);      // Outputs 9
+
+
+//        byte a = 1;
+//        short b = 2;
+//        b = a;
+//        a = b;
+
+
+
+
     }
 }

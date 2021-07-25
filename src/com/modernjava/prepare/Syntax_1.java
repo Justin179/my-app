@@ -12,7 +12,10 @@ public class Syntax_1 {
 
     // main方法為程式進入點
     public static void main(String[] args) {
-        System.out.println("Hello World");
+
+         // 列印文字
+         System.out.println("Hello World");
+
 
         // 單行註解
 

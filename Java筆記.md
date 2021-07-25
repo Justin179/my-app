@@ -3,8 +3,8 @@
 
 ###### [2021-07-18]
 <https://www.evernote.com/l/AP3ly1s25mlJapNqCWT8lNxJlcmVDRaMOxE/>
-
-
+###### [2021-07-24]
+<https://www.evernote.com/l/AP3DjrjbRd1JhbcMELDU-Q4THcbg4a7VC4g/>
 
 ***
 
